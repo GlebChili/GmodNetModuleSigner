@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>GmodNET.ModuleSigner</RootNamespace>
+    <PublishTrimmed>true</PublishTrimmed>
+    <Authors>Gleb Krasilich</Authors>
+    <AssemblyName>gms</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSec.Cryptography" Version="19.5.0" />
+  </ItemGroup>
+
+</Project>
