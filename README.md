@@ -1,3 +1,4 @@
+[![Discord Server](https://img.shields.io/discord/632622505848471554?label=Our%20Discord&style=for-the-badge)](https://discord.gg/9bP8nMT)
 # GmodNetModuleSigner
 Code signing utility for [GmodDotNet](https://github.com/GlebChili/GmodDotNet) powered by [NSec](https://nsec.rocks/) and [libsodium](https://libsodium.org).
 
@@ -53,3 +54,6 @@ In case of verification `*modulekey` file can contain only `PublicKey` field.
 ```shell
 $ ./gms --help
 ```
+
+## Need help?
+Join our [discord server](https://discord.gg/9bP8nMT).
